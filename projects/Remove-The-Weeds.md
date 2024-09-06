@@ -2,18 +2,24 @@
 layout: project
 type: project
 image: img/IMG_1151.jpg
-title: "Volunteering restoration of Native Plants"
+title: "Pull Weeds!"
 date: 2024-09-05
 published: true
 labels:
   - Volunteering
-summary: ""
+summary: "Volunteering Restoration Cleanup"
 ---
 
 <img class="img/IMG_1152.jpg">
 
-During the Summer for one month I contributed volunteering with 808 cleanups. 
+During the Summer I contributed volunteering with 808 cleanups. 
 We'd meet once a week at Pu`uo Kaimuki park and divide into groups. Each person would have their own responsibility in restoring the park. From stacking cement rocks to create a cleaner wall, remove trash, rocks, or trim trees. I usually had the responsibility of weeding out invasive species of weeds. That way it would make space for Native plants to prosper. 
+
+I learned alot about the different plant species and now I am able to detect the invasive species and remove them when I can. It was interesting to find out that many of the common plants I see were invasive species
+
+I'm really glad I got to experience being involved in this volunteer restoration. I always go to this park when I need some fresh air watching the sunset, or watching the christmas tree light up with my friends and family. So it was really nice to give back the not only my neighborhood but the park that I love. 
+
+
 <hr>
 
 <pre>
