@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_1151.jpg
+image: img/IMG_1151.png
 title: "Pull Weeds!"
 date: 2024-09-05
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "Volunteering Restoration Cleanup"
 ---
 
-<img class="img/IMG_1152.jpg">
+<img class="img/IMG_1152.png">
 
 During the Summer I contributed volunteering with 808 cleanups. 
 We'd meet once a week at Pu`uo Kaimuki park and divide into groups. Each person would have their own responsibility in restoring the park. From stacking cement rocks to create a cleaner wall, remove trash, rocks, or trim trees. I usually had the responsibility of weeding out invasive species of weeds. That way it would make space for Native plants to prosper. 
