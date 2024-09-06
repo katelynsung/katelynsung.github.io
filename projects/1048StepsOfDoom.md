@@ -10,7 +10,7 @@ labels:
 summary: "1048 Steps of Doom"
 ---
 
-<img class="">
+img/IMG_1152.png
 
 My idea of people waking up before the sun rose to go to the gym always seemed inspirational to me. Although I've had my fair share of gym attempts, it was difficult for me to create it as a routine. My dad and sisters started going to Kokohead every Sunday morning for sunrise. Reaching the top as the sun woke up with you was the best feeling ever. The fresh new wind of the day cooling you from your hard worked sweat. From that day the routine began. Every sunday morning we would hike Kokohead together, and rush home to get ready to go to my part time job. It made me feel accomplished!
 
