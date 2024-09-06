@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/Kokohead.png
 title: "50 Days of Kokohead"
 date: 2024-09-05
 published: true
