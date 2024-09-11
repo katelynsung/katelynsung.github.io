@@ -26,20 +26,20 @@ katelyn-sung-4ab062303
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [ "Entry level C"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science: Creative Computational Media (expected Spring, 2026)",
+      "studyType": "B.A.",
+      "startDate": "2022-08-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -47,69 +47,69 @@ katelyn-sung-4ab062303
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "California Pizza Kitchen",
+      "position": "Hostess and Takeout Server",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2021-06-01",
+      "endDate": "2022-07-01",
+      "summary": "Managed the flow and organization of the busiest CPK in the world",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Organize and work with many differnt people, in a fast paced environment",
+        "strongly practiced customer service"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawaiian Crown",
+      "position": "Barista",
+      "website": "",
+      "startDate": "2023-08-01",
+      "endDate": "present",
+      "summary": "Efficiently and accuratley deliver orders and top tier customer service.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Rapidly multitasking working with customers orders",
+        "Communicate with tourists in different languages such as Korean and Japanese"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "808 Cleanups",
+      "website": "",
+      "position": "volunteer",
+      "startDate": "2024-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Restore local parks of their native plant species",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Remove invasive species that were effecting native plants growth",
+        "Maintain the public park, creating newer paths"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Valedictorian",
+      "date": "2022",
+      "awarder": "Kalani High School",
+      "summary": "Kalani High School Valedictorian"
     },
     {
-      "title": "First place",
+      "title": "",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
