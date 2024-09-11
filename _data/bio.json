@@ -12,9 +12,8 @@
       { "network": "github", "username": "katelynsung", "url": "https://github.com/katelynsung" },
       { "network": "linkedin", "username": "katelynsung", "url": "www.linkedin.com/in/
 katelyn-sung-4ab062303
-" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
+" }
+    
     ]
   },
   "interests": [
@@ -61,7 +60,7 @@ katelyn-sung-4ab062303
     {
       "company": "Hawaiian Crown",
       "position": "Barista",
-      "website": "",
+      "website": ""
       "startDate": "2023-08-01",
       "endDate": "present",
       "summary": "Efficiently and accuratley deliver orders and top tier customer service.",
@@ -74,29 +73,17 @@ katelyn-sung-4ab062303
   "volunteer": [
     {
       "organization": "808 Cleanups",
-      "website": "",
+      "website": "https://808cleanups.org/"
       "position": "volunteer",
       "startDate": "2024-05-01",
       "endDate": "Present",
-      "summary": "Restore local parks of their native plant species",
+      "summary": "Restore local parks of their native plant species as well as clean polluted beaches",
       "highlights": [
-        "Remove invasive species that were effecting native plants growth",
+        "Remove invasive species that were effecting native plants growth.",
         "Maintain the public park, creating newer paths"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
     }
+    
   ],
   "awards": [
     {
@@ -104,6 +91,12 @@ katelyn-sung-4ab062303
       "date": "2022",
       "awarder": "Kalani High School",
       "summary": "Kalani High School Valedictorian"
+    }
+    {
+      "title": "Manoa's Dean's List",
+      "date": "2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Deans List 2022"
     }
     
   "references": [
