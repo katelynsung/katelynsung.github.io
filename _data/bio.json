@@ -7,7 +7,7 @@
     "phone": "",
     "website": "https://katelynsung.github.io",
     "summary": "I am studying for a B.A. in Creative Computational Media in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "USA" "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "katelynsung", "url": "https://github.com/katelynsung" },
       { "network": "linkedin", "username": "katelynsung", "url": "www.linkedin.com/in/
@@ -104,14 +104,8 @@ katelyn-sung-4ab062303
       "date": "2022",
       "awarder": "Kalani High School",
       "summary": "Kalani High School Valedictorian"
-    },
-    {
-      "title": "",
-      "date": "2015",
-      "awarder": "",
-      "summary": ""
     }
-  ],
+    
   "references": [
     {
       "name": "Available upon request"
