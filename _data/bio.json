@@ -1,42 +1,43 @@
+
 {
   "basics": {
     "name": "Katelyn Sung",
     "label": "Student",
     "picture": "https://github.com/katelynsung.png",
-    "email": "sungkate@gmail.com",
+    "email": "sungk@hawaii.edu",
     "phone": "",
     "website": "https://katelynsung.github.io",
     "summary": "I am studying for a B.A. in Creative Computational Media in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "USA" "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "katelynsung", "url": "https://github.com/katelynsung" },
+      { "network": "github", "username": "katelynsung", "url": "http://github.com/katelynsung" },
       { "network": "linkedin", "username": "katelynsung", "url": "www.linkedin.com/in/
-katelyn-sung-4ab062303
-" }
-    
+katelyn-sung-4ab062303" },
+      
+      
     ]
   },
   "interests": [
-    { "name": "Hiking" },
-    { "name": "Fashion" },
-    { "name": "Traveling" },
     { "name": "Creative Media" },
-    { "name": "Creative Directing" }
+    { "name": "Fashion" },
+    { "name": "Hiking" },
+    { "name": "Creative Directing" },
+    { "name": "Graphics" }
   ],
   "skills": [
     {
-      "name": "Languages",
-      "keywords": [ "Entry level C"]
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS"]
+      "keywords": [ "MacOS" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science: Creative Computational Media (expected Spring, 2026)",
+      "area": "Computer Science: Creative Media (expected Spring, 2026)",
       "studyType": "B.A.",
       "startDate": "2022-08-01",
       "endDate": "Present",
@@ -47,10 +48,10 @@ katelyn-sung-4ab062303
   "work": [
     {
       "company": "California Pizza Kitchen",
-      "position": "Hostess and Takeout Server",
+      "position": "Takeout Sever and Hostess",
       "website": "",
-      "startDate": "2021-06-01",
-      "endDate": "2022-07-01",
+      "startDate": "2021-07-01",
+      "endDate": "2022-08-01",
       "summary": "Managed the flow and organization of the busiest CPK in the world",
       "highlights": [
         "Organize and work with many differnt people, in a fast paced environment",
@@ -60,12 +61,12 @@ katelyn-sung-4ab062303
     {
       "company": "Hawaiian Crown",
       "position": "Barista",
-      "website": ""
+      "website": "",
       "startDate": "2023-08-01",
-      "endDate": "present",
-      "summary": "Efficiently and accuratley deliver orders and top tier customer service.",
+      "endDate": "Present",
+      "summary": "",
       "highlights": [
-        "Rapidly multitasking working with customers orders",
+        "Efficiently and accuratley deliver orders and top tier customer service.",
         "Communicate with tourists in different languages such as Korean and Japanese"
       ]
     }
@@ -73,35 +74,39 @@ katelyn-sung-4ab062303
   "volunteer": [
     {
       "organization": "808 Cleanups",
-      "website": "https://808cleanups.org/"
-      "position": "volunteer",
-      "startDate": "2024-05-01",
+      "website": "https://808cleanups.org/",
+      "position": "Volunteer",
+      "startDate": "2024-05-15",
       "endDate": "Present",
       "summary": "Restore local parks of their native plant species as well as clean polluted beaches",
       "highlights": [
         "Remove invasive species that were effecting native plants growth.",
         "Maintain the public park, creating newer paths"
       ]
-    }
+    },
     
-  ]
+  ],
   "awards": [
     {
       "title": "Valedictorian",
       "date": "2022",
-      "awarder": "Kalani High School",
-      "summary": "Kalani High School Valedictorian"
-    }
+      "awarder": "Kalani High School Valedictorian",
+      "summary": "Awarded with a cumulative 4.1 GPA Valedictorian."
+    },
     {
-      "title": "Manoa's Dean's List",
+      "title": "Dean's list",
       "date": "2022",
       "awarder": "University of Hawaii at Manoa",
-      "summary": "Deans List 2022"
+      "summary": "Deans List Univeristy of Hawaii at Manoa with the GPA of 3.6"
     }
-  ]
+  ],
   "references": [
     {
       "name": "Available upon request"
     }
   ]
 }
+
+
+
+
