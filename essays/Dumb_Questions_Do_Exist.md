@@ -23,7 +23,7 @@ These steps included:
 6. Try ask a skilled friend.
 7. Try read a source code for the answer.
 
-In any question, you want to show evidence that you tried your best looking for the answer on your own prior to asking for help. This makes you look more credible and not 'lazy'. This [example](https://stackoverflow.com/questions/59116815/how-do-i-print-%e2%88%a9-in-c-language) from Stack Overflow perfectly exemplifies how a smart question should be asked. You can tell this person took many measures to look for the answer on their own. The question portrays the whole process of going through trial and error 
+In any question, you want to show evidence that you tried your best looking for the answer on your own prior to asking for help. This makes you look more credible and not 'lazy'. This [example](https://stackoverflow.com/questions/59116815/how-do-i-print-%e2%88%a9-in-c-language) from Stack Overflow perfectly exemplifies how a smart question should be asked. You can tell this person took many measures to look for the answer on their own. The question asker portrays the whole long process of going through each trial and error.
 
 <img class="img-fluid" src="../img/SmartQuestionEx1.png">  
 
