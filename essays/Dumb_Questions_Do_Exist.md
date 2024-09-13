@@ -23,6 +23,7 @@ These steps included:
 
 In any question, you want to show evidence that you tried your best looking for the answer on your own prior to asking for help. This makes you look more credible and not 'lazy'. This example from Stack Overflow perfectly exemplifies how a smart question should be asked. You can tell this person took many measures to look for the answer on their own. The question portrays the whole process of going through trial and error 
 
+<img class="img-fluid" src="../img/IMG_1152.png">
 
 
 ## Dumb Questions
