@@ -26,7 +26,7 @@ These steps included:
 In any question, you want to show evidence that you tried your best looking for the answer on your own prior to asking for help. This makes you look more credible and not 'lazy'. This [example](https://stackoverflow.com/questions/59116815/how-do-i-print-%e2%88%a9-in-c-language) from Stack Overflow perfectly exemplifies how a smart question should be asked. You can tell this person took many measures to look for the answer on their own. The question portrays the whole process of going through trial and error 
 
 <img class="img-fluid" src="../img/SmartQuestionEx1.png">  
-<img class="img-fluid" src="../img/SmartQuestionEx1.png">
+
 
 ## Not So Smart Questions
 Not so smart questions are just questions without any effort attempted. It can also be the environment the question is being asked in. For example asking a question about dogs in Computer Science class is very redundant. But specifically what defines a not so smart question is the way it is asked. If there is no evidence or background information of what the person tried to do on their own before asking, it is considered as dumb and lazy.
