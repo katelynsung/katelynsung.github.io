@@ -8,11 +8,11 @@ published: true
 labels:
   - computer science
   - ESLint
-  - coding
+  - coding style
 ---
 
 
-##My VSCode and ESLint Experience
+## My VSCode and ESLint Experience
 I've recently gotten to try out VSCode and implemented ESLint. ESLint is a tool that helps fix and identify issues in JavaScript code. From the small experience that I have had so far, I will say that using VSCode is a little difficult for me to get used to. Having to run a lot of things such as 'npm run lint' and installing alot of systems can get really tedious. I actually had a difficult time trying to install all the tools needed in VSCode. This whole shift from previously using Typescript playground is definitely drastic. In my current ICS Class we are learning how to use numerous files so VSCode definitely comes in handy when using multiple files. I found it handy that ESlint can do easy fixes and can automatically fix a handful of errors in your code automatically. This was super benefitial and time saving.
 
 ## Are Coding Standards Worth The Hassle?
