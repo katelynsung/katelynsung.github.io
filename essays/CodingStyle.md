@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Obey The Rules: Coding Style"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2024-09-24
 published: true
 labels:
   - coding style
