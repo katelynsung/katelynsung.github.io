@@ -7,13 +7,12 @@ date: 2024-09-24
 published: true
 labels:
   - computer science
-  - ESLint
-  - coding style
+  - JavaScript
+  - programming
 ---
-
-
 ## My VSCode and ESLint Experience
 I've recently gotten to try out VSCode and implemented ESLint. ESLint is a tool that helps fix and identify issues in JavaScript code. From the small experience that I have had so far, I will say that using VSCode is a little difficult for me to get used to. Having to run a lot of things such as 'npm run lint' and installing alot of systems can get really tedious. I actually had a difficult time trying to install all the tools needed in VSCode. This whole shift from previously using Typescript playground is definitely drastic. In my current ICS Class we are learning how to use numerous files so VSCode definitely comes in handy when using multiple files. I found it handy that ESlint can do easy fixes and can automatically fix a handful of errors in your code automatically. This was super benefitial and time saving.
 
 ## Are Coding Standards Worth The Hassle?
-While it is annoying to constantly see red squiggly lines, I think that coding standards are worth the hassle. It really enforces you to make your code clear and organized. This makes a lot of sense because in the future, when working with other programmers in a project, you may have to share your code. If no one follows a coding standard it would be difficult to read and work together. It's similar to sharing notes or having to edit a peers handwritten essay. If their handwriting is super messy it can be unlegible and difficult to read. With that being said, I think that Coding standards are very important. I'm glad that I'm able to have ESLint guide me so that I can create good habits on how my coding style should be. I can't wait to continue practicing using VSCode and ESLint and allow it to be very efficient and beneficial for me. 
+While it is annoying to constantly see red squiggly lines, I think that coding standards are worth the hassle. It really enforces you to make your code clear and organized. This makes a lot of sense because in the future, when working with other programmers in a project, you may have to share your code. If no one follows a coding standard it would be difficult to read and work together. It's similar to sharing notes or having to edit a peers handwritten essay. If their handwriting is super messy it can be unlegible and difficult to read. With that being said, I think that Coding standards are very important. I'm glad that I'm able to have ESLint guide me so that I can create good habits on how my coding style should be. I can't wait to continue practicing using VSCode and ESLint and a
+
