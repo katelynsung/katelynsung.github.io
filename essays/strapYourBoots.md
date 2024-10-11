@@ -10,6 +10,8 @@ labels:
   - CSS
   - Bootstrap
 ---
+<img class="img-fluid" src="../img/download.png">
+
 ## So Far So Good?
 In my ICS 314 class I have just been recently introduced to HTML. To start, I will say that It is a nice break from other coding languages and for loops. However I did not realize how messy HTML could be! So far I've done a few assignments in my class and wow the organization of the code can get really messy. I'm still having a lot of trouble between the usage of CSS and HTML. Sometimes I am duplicating things such as changing the padding in both the CSS and HTML, so I am still trying to understand how to use them and not overlap with eachother. The usage of containers also still confuse me. I seem to be putting numerous containers into another, but it does not make sense to me. HTML does excite me because it seems to be a more useful skill. Unlike other coding classes and languages where you just follow instructions to make something, HTML allows you to actually see and use the websites you create. This makes it more fun for me and it helps my hands on and visual learning process. I think being able to make websites is such an important skill to have so I have been practicing hard. In my class we have practice WODS which stand for the Work Out of the Day. These are timed quizes that are graded pass or fail. While I thought HTML is refreshing to learn and get away from loops, I failed my first HTML WOD. HTML and Bootstrap is so detailed, it is difficult to make sure everything is accurately placed and organized. 
 
