@@ -35,5 +35,7 @@ There will be one chocker necklace, a chain with a pearl necklace, and a adjusta
 
 ## Proposers
 Waltz Axl C. Tuzon
+
 Jarren Seson
+
 Katelyn Sung
