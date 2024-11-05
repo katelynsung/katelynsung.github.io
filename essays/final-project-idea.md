@@ -9,7 +9,7 @@ labels:
 ---
 
 ## The Problem
-In Hawai'i there is a heavy popularity in shell jewelry. Unfortunately, these pieces can be sold starting at $200. Which is super expensive and out of reach for college students. The overpriced jewelry limits college students from being able to enjoy natures gift in a fashion aspect. Jewelry can also be very restrictive with differnet sizes not fitting the way they would want it to fit.
+In Hawai'i there is a heavy popularity in shell jewelry. Unfortunately, these pieces can be sold starting at $200. Which is super expensive and out of reach for college students. The overpriced jewelry limits college students from being able to enjoy natures gift in a fashion aspect. Jewelry can also be very restrictive with different sizes not fitting the way they would want it to fit.
 
 ## The Solution
 The solution is to create a brand called where we ethically source Kona Abalone shells and create beautiful shell jewelry. Not only does this allow UH students to be able to rock shell jewelry at an affordable price, but it helps the local community with their business. This also targets the issue of recycling, helping our island. Students can place a customized order to find their perfect length and size of their jewelry, making the jewelry made to order.
