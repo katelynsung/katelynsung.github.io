@@ -23,14 +23,20 @@ There will be one chocker necklace, a chain with a pearl necklace, and a adjusta
 
 ## Case Idea
 -User goes onto site, scrolls through homepage, reads the backround information and about the brand.
+
 -User clicks 'Shope styles' button and browses through the different styles. 
+
 -User clicks 'Place an Order' and fills out a form completing the name, shipping address, style, and chain length.
+
 -User submits the order and a notification pops up with a confirmation such as 'Thank you for placing your order!'
 
 ## Beyond the Basics
 -Have the user enter their credit card information and actually charge them
+
 -take in user's email to send shipping confirmation and order details
+
 -Allow users to leave reviews on their orders
+
 -Have a page that shows 'jewelry on you' which previews an instagram page showing the buyers wearing them
 
 ## Proposers
