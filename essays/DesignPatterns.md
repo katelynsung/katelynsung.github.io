@@ -14,7 +14,7 @@ labels:
 
 The usage of Design patterns are not that well known. Whether its a kid playing a game on their Ipad, to a student logging into their social media apps, a design pattern was created behind the scenes in order to get a usable solution. 
 
-These are important as a software engineer because it "improves the quality of code, speed up development, and make collaboration easier"
+Understanding design patterns are important as a software engineer because it "improves the quality of code, speed up development, and make collaboration easier"
 
 
 
@@ -22,7 +22,7 @@ These are important as a software engineer because it "improves the quality of c
 
 
 
-Design patterns are a general and reuasable solution to a commonly occuring problem in software design. These are represented by a template that can be used for many different situations. Design patterns are often described by a Name, Problem Description, Solution Description, and The Consequences of the proposed design pattern. The consequence is usually about the downsides and risks of that style. An Object Oriented Design pattern consists of a few differnt types: Creational Patterns, Structural Patterns, and Behavior Patterns.
+Design patterns are a general and reuasable solution to a commonly occuring problem in software design. These are represented by a template that can be used for many different situations. Design patterns are often described by a name, problem description, solution description, and the consequences of the proposed design pattern. The consequence is usually about the downsides and risks of that style. An Object Oriented Design pattern consists of a few differnt types: Creational Patterns, Structural Patterns, and Behavior Patterns.
 
 Design patterns can stretch from User Interface, Database Systems, Real Time systems, Testing, Architecture, Software Processes, Language Specific (C++, Java, JS, etc). The most common examples would be Factory, Singleton, Observer, MVC. 
 
@@ -40,4 +40,6 @@ For this website we have the home screen prompting the user to log in or to make
 Once ready to check out the user can click the shopping cart button, where the database has read from the database and written it onto the shopping cart page. Another button called 'Continue to payment' redirects the user to fill out their choice of payment, followed by a button called 'Proceed to Shipping".
 
 On this shipping form the Singletone Design Pattern is being used again as the user inputs their shipping information and the data is being written into the database. 
+
+Overall, I got to learn about what design patterns are and got to implement my own. They were definetly difficult and still in the working progress of perfecting my design pattern for my website project!
 
