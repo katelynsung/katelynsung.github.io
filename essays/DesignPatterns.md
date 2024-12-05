@@ -20,7 +20,7 @@ Understanding design patterns are important as a software engineer because it "i
 
 <img width="913" alt="Screenshot 2024-12-04 at 2 43 28 PM" src="https://github.com/user-attachments/assets/fa83f7ae-befc-43da-b970-286cbadaa692">
 
-
+## What is a design pattern?
 
 Design patterns are a general and reuasable solution to a commonly occuring problem in software design. These are represented by a template that can be used for many different situations. Design patterns are often described by a name, problem description, solution description, and the consequences of the proposed design pattern. The consequence is usually about the downsides and risks of that style. An Object Oriented Design pattern consists of a few differnt types: Creational Patterns, Structural Patterns, and Behavior Patterns.
 
