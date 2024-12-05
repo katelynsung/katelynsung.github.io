@@ -16,6 +16,12 @@ The usage of Design patterns are not that well known. Whether its a kid playing 
 
 These are important as a software engineer because it "improves the quality of code, speed up development, and make collaboration easier"
 
+
+
+<img width="913" alt="Screenshot 2024-12-04 at 2 43 28 PM" src="https://github.com/user-attachments/assets/fa83f7ae-befc-43da-b970-286cbadaa692">
+
+
+
 Design patterns are a general and reuasable solution to a commonly occuring problem in software design. These are represented by a template that can be used for many different situations. Design patterns are often described by a Name, Problem Description, Solution Description, and The Consequences of the proposed design pattern. The consequence is usually about the downsides and risks of that style. An Object Oriented Design pattern consists of a few differnt types: Creational Patterns, Structural Patterns, and Behavior Patterns.
 
 Design patterns can stretch from User Interface, Database Systems, Real Time systems, Testing, Architecture, Software Processes, Language Specific (C++, Java, JS, etc). The most common examples would be Factory, Singleton, Observer, MVC. 
