@@ -44,16 +44,15 @@ No I have never used AI to answer or ask a question. If I were to ask a question
 I've actually never used AI to give me examples. Instead I would more so use it for the actual specific question that I had. For example it could just be like 'How can I create a next page button?'
 
 ## 10. Explaining code
-I would use AI for explanations in my other coding classes more than this class. But I did use it a few times to understand what some new concepts were and ChatGPT breaks it down really well for me. I remember asking chatGPT to explain what a Model was in the schema.prisma file, as well as an explanation of what 
+I would use AI for explanations in my other coding classes more than this class. But I did use it a few times to understand what some new concepts were and ChatGPT breaks it down really well for me. I remember asking chatGPT to explain what a Model was in the schema.prisma file, as well as an explanation of what this meant:
 ```
 where: { email: account.email },
       update: {},
       create: {}
 ```
-      meant
 
 ## 11. Writing Code
-I would use AI tools such as ChatGPT to help me write code. In particular when I was stuck on the timed WODs in class, I would ask ChatGPT to help write thethe correct portion of my code if a part wasn't working. It was pretty helpful in this task unless my code consisted of numerous pages and folders. 
+I would use AI tools such as ChatGPT to help me write code. In particular when I was stuck on the timed WODs in class, I would ask ChatGPT to help write the correct portion of my code if a part wasn't working. I struggled a lot on the Aloha Beer WOD. Only because I was off centered and the details were not correct. We had a couple of Aloha Beer WODs one with React, and one with Next.js. After failing a few I finally was able to defeat the Aloha Beer WOD after asking it to write the code on my dispplay formmating. It was pretty helpful in this task unless my code consisted of numerous pages and folders. 
 
 ## 12. Documenting Code
 No I never thought of documenting code with AI
