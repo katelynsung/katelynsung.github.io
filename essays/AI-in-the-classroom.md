@@ -57,7 +57,7 @@ I would use AI tools such as ChatGPT to help me write code. In particular when I
 ## 12. Documenting Code
 No I never thought of documenting code with AI
 
-## 13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+## 13. Quality assurance e.g. What’s wrong with this code or Fix ESLint errors
 Using Chatgpt to fix my errors was probably my most popular usage. If I had a hard time figuring out what the errors meant or how to fix them, I would use chatgpt alot to help me find out the solution. This portion was probably the most helpful in debugging and understanding what the errors meant. I would usually copy the whole error that was displayed on my terminal and ask what it meant. Or I would copy the section of the code along with the underlined error to explain what it meant and how to fix it. I used this alot during the process of my project. I also copied the terminal during the downloading processes when things were nto dowloaded correctly. It would take me step by step on what to do to fix the version, update the version, or if I did not download it correctly. Without this help I wouldn't have been able to really fix or understand any of the errors that I got into. 
 
 ## Conclusion
@@ -65,7 +65,9 @@ Overall while AI was able to help me get through this class and fix my errors, a
 I think in the real world as a software engineer it is a really good tool to help debug your code or understand what the errors mean. It would also be very an efficient source to understand what certain code snippets mean or how certain functions work. 
 The main challenge with AI is that it isn't the most accurate at times in giving the correct way. There are many different solutions so sometimes I would get an out of ICS314 advanced leveled solution. As previously said, if there are a handful of files in my code, it is difficult to get an accurate response as well with different locations and links in your own project. 
 
-There is a lot of future improvements that I would want to work on personally. The usage of AI in this class made me realize that it only gets harder and you really need to grasp the understanding of a difficult task. I think the way I used it to understand what error messages meant was very efficient, but when it came to just copying and pasting down the solution, it did not help me retain what changes I had made to solve the problem. 
+There is a lot of future improvements that I would want to work on personally. The usage of AI in this class made me realize that it only gets harder and you really need to grasp the understanding of a difficult task. I think the way I used it to understand what error messages meant was very efficient, but when it came to just copying and pasting down the solution, it did not help me retain what changes I had made to solve the problem. For example when I would need help formatting the displays correctly, I would just use ChatGPT to fix it for me. When I come across the same situation I'm not able to remember what to do since It wasn't retained. 
+
+The future is going to be heavyset on AI, I think that these will replace the need of inperson tutorings as well as become the most popular search engine for any questions. 
 
 
 
