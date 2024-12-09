@@ -10,6 +10,7 @@ labels:
   - ICS 314
   - ChatGPT
   - Artificial Intelligence
+  - Website Development
 ---
 ## Introduction
 
@@ -31,19 +32,25 @@ No, I have never used AI to write essays.
 For my final project majority of the time I would use previous WOD experience videos as a reference. But when I would have merge conflict errors or some problems that were difficult for me to solve, I would run it by ChatGPT to help me debug and understand what was wrong. It would help sometimes but with the many different folders and files, it would take more time trying to explain and understand more than fixing the problem. 
 
 ## 6.Learning a concept / tutorial
-I guess I would ask ChatGPT some questions time to time such as 'what does justify-context-center' do? To get a detailed understanding of what the concepts that I saw in WOD experience videos meant. I would also use it for tutorials on how to do certain things like creating buttons, how to correctly link pages, etc. For these questions ChatGPT was pretty accurate and helpful.
+I would ask ChatGPT some questions time to time such as 'what does justify-context-center' do? To get a detailed understanding of what the concepts that I saw in WOD experience videos meant. I would also use it for tutorials on how to do certain things like 'How to create buttons', 'how to correctly link pages', etc. For these questions ChatGPT was pretty accurate and helpful.
 
 ## 7.Answering a question in class or in Discord
 I have never used AI to answer a question in class or Discord.
 
 ## 8.Asking or answering a smart-question
-No I have never used AI to answer or ask a question. If I were to ask a question i never needed an AI tool for assistance.
+No I have never used AI to answer or ask a question. If I were to ask a question I never needed an AI tool for assistance.
 
 ## 9. Coding example e.g. “give an example of using Underscore .pluck”
-I've actually never used AI to give me examples. Instead I would more so use it for the actual specific question that I had. 
+I've actually never used AI to give me examples. Instead I would more so use it for the actual specific question that I had. For example it could just be like 'How can I create a next page button?'
 
 ## 10. Explaining code
-I would use this example alot in my other coding classes more than this class. I did use it a few times to understand what some new concepts were and ChatGPT breaks it down really well for me. 
+I would use AI for explanations in my other coding classes more than this class. But I did use it a few times to understand what some new concepts were and ChatGPT breaks it down really well for me. I remember asking chatGPT to explain what a Model was in the schema.prisma file, as well as an explanation of what 
+
+'''where: { email: account.email },
+      update: {},
+      create: {}
+      '''
+      meant
 
 ## 11. Writing Code
 I would use AI tools such as ChatGPT to help me write code. In particular when I was stuck on the timed WODs in class, I would ask ChatGPT to help write thethe correct portion of my code if a part wasn't working. It was pretty helpful in this task unless my code consisted of numerous pages and folders. 
