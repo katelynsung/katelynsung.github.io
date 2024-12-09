@@ -45,11 +45,11 @@ I've actually never used AI to give me examples. Instead I would more so use it 
 
 ## 10. Explaining code
 I would use AI for explanations in my other coding classes more than this class. But I did use it a few times to understand what some new concepts were and ChatGPT breaks it down really well for me. I remember asking chatGPT to explain what a Model was in the schema.prisma file, as well as an explanation of what 
-
-'''where: { email: account.email },
+```
+where: { email: account.email },
       update: {},
       create: {}
-      '''
+```
       meant
 
 ## 11. Writing Code
