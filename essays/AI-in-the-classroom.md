@@ -23,16 +23,16 @@ I really liked how the WODs on the course site were structured. There were a lot
 For the practice WODs I never used any AI tools. Since they were only practice I would try my best to test my own skills. I would just make sure that if I wasn't able to finish the practice WOD, I would make sure to get the correct answer and practice them over and over in preperation for my real WOD.
 
 ## 3.In-class WODs
-In the beginning of the semester I refused to use AI on my real graded WODs. As time passed and I would frustratingly get stuck on one small thing, I began to use AI as the last minute tool if what I was doing wasn't working. However using AI as help for WODs seemed to help 30% of the time. It would either make it way more complicated, using things I never learned yet, or just not work. 
+In the beginning of the semester I refused to use AI on my real graded WODs. As time passed and I would frustratingly get stuck on one small thing, I began to use AI as the last minute tool if what I was doing wasn't working. However using AI as help for WODs seemed to help 30% of the time. It would either make it way more complicated, using things I never learned yet, or just not work. I was lucky if what ChatGPT told me would work.
 
 ## 4.Essays
 No, I have never used AI to write essays.
 
 ## 5.Final project
-For my final project majority of the time I would use previous WOD experience videos as a reference. But when I would have merge conflict errors or some problems that were difficult for me to solve, I would run it by ChatGPT to help me debug and understand what was wrong. It would help sometimes but with the many different folders and files, it would take more time trying to explain and understand more than fixing the problem. 
+For my final project majority of the time I would use previous WOD experience videos as a reference. But when I would have merge conflict errors or some problems that were difficult for me to solve, I would run it by ChatGPT to help me debug and understand what was wrong. It was very helpful when asking questions on errors as well as how to make 'buttons' etc. However for any other problem it was more difficult trying to understand ChatGPT. Majority of its responses would be too complex, make things harder than it needed to be, or it just wouldn't be reliable when using so many files and folders. 
 
 ## 6.Learning a concept / tutorial
-I would ask ChatGPT some questions time to time such as 'what does justify-context-center' do? To get a detailed understanding of what the concepts that I saw in WOD experience videos meant. I would also use it for tutorials on how to do certain things like 'How to create buttons', 'how to correctly link pages', etc. For these questions ChatGPT was pretty accurate and helpful.
+I would ask ChatGPT some questions time to time such as 'what does justify-context-center do?' To get a detailed understanding of what the concepts that I saw in WOD experience videos meant. I would also use it for tutorials on how to do certain things like 'How to create buttons', 'how to correctly link pages', etc. For these questions ChatGPT was pretty accurate and helpful.
 
 ## 7.Answering a question in class or in Discord
 I have never used AI to answer a question in class or Discord.
@@ -41,7 +41,7 @@ I have never used AI to answer a question in class or Discord.
 No I have never used AI to answer or ask a question. If I were to ask a question I never needed an AI tool for assistance.
 
 ## 9. Coding example e.g. “give an example of using Underscore .pluck”
-I've actually never used AI to give me examples. Instead I would more so use it for the actual specific question that I had. For example it could just be like 'How can I create a next page button?'
+I've actually never used AI to give me examples. Instead I would more so use it for the actual specific question that I had. For example it could just be like 'How can I create a shop products button that links to the products.tsx page?' asking a direct question was very helpful. 
 
 ## 10. Explaining code
 I would use AI for explanations in my other coding classes more than this class. But I did use it a few times to understand what some new concepts were and ChatGPT breaks it down really well for me. I remember asking chatGPT to explain what a Model was in the schema.prisma file, as well as an explanation of what this meant:
@@ -51,8 +51,10 @@ where: { email: account.email },
       create: {}
 ```
 
+so for these examples ChatGPT was very helpful in thoroughly explaining what each word meant.
+
 ## 11. Writing Code
-I would use AI tools such as ChatGPT to help me write code. In particular when I was stuck on the timed WODs in class, I would ask ChatGPT to help write the correct portion of my code if a part wasn't working. I struggled a lot on the Aloha Beer WOD. Only because I was off centered and the details were not correct. We had a couple of Aloha Beer WODs one with React, and one with Next.js. After failing a few I finally was able to defeat the Aloha Beer WOD after asking it to write the code on my dispplay formmating. It was pretty helpful in this task unless my code consisted of numerous pages and folders. 
+I would use AI tools such as ChatGPT to help me write code. In particular when I was stuck on the timed WODs in class, I would ask ChatGPT to help write the correct portion of my code if a part wasn't working. I struggled a lot on the Aloha Beer WOD. Only because I was off centered and the details were not correct. We had a couple of Aloha Beer WODs one with React, and one with Next.js. After failing a few I finally was able to defeat the Aloha Beer WOD after asking it to write the code on my dispplay formmating. The first few times I used it to center my wordings, it did not work. After a few attempts it was pretty helpful in this task unless my code consisted of numerous pages and folders. 
 
 ## 12. Documenting Code
 No I never thought of documenting code with AI
