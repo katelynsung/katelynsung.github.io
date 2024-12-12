@@ -8,7 +8,9 @@ published: true
 labels:
   - ICS 314
   - Software Engineer
-  - Website Development
+  - Website Application
+  - Configuration Management
+  - Coding Standards
 ---
 
 ## Configuration Management
@@ -17,7 +19,7 @@ I got to learn and understand the concept of Configuration Management. This "att
 ## The Three Configuration Management Problems
 1. Double maintenece problem
 2. The shared data problem
-3.The simultaneous update problem 
+3. The simultaneous update problem 
 
 These problems mainly occur when working in group projects. Previously people would email source codes back and fourth.
 Solutions to these problems are GIT which is a distributed version control system. With this system, multiple people are able to work on the same source code and alter it by creating different branches. 
@@ -28,5 +30,7 @@ Coding standards is a guidline that improves readability by ensuring a common lo
 
 Throughout my class I learned the efficiency of ESLint and ESLint Prettier. These organized and correctly formatted each line of code, making it more legible. It was handy how I could have my small errors be corrected with just one button. I noticed when working on my group project, since my team members and I all used ESLint in our source codes, being able to understand eachothers codes was effortless. Everything was legible especially with the organized indentations. 
 
-I can see myself continue to use Coding standards. Prior to this class and incorporating plugins I had class that enforced a different type of coding standard. I would run the coding standard checker through my local terminal and it was satisfying to cleanup and fix all my formatting and indentations. This made me more aware of how beneficial and convenient coding standards were. I know this is an important concept to understand and incorporate for future projects for myself and when working with others. 
+I can see myself continue to use Coding standards. Prior to this class and incorporating plugins I had a class that enforced a different type of coding standard. I would run the coding standard checker through my local terminal and it was satisfying to cleanup and fix all my formatting and indentations one by one. This made me more aware of how beneficial and convenient coding standards were. I know this is an important concept to understand and incorporate for future projects for myself and when working with others.
+
+In conclusion these two project management styles stood out to me the most. I learned how to work with others efficiently with Configuration Management which kept code update organized and reduced issues. I also was able to keep the organization by following coding standards. These two skills are already being used outside of website applications and I can't wait to continue advancing my skills on them for future classes and projects. 
 
