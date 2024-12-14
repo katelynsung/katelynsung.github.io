@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![B90502F7-B816-494D-AC42-0CA63C4E72A2](https://github.com/user-attachments/assets/c2ed7e8b-f3f3-4556-b5e9-b5e2807a1e65)
+image: /img/B90502F7-B816-494D-AC42-0CA63C4E72A2.jpeg
 title: "Sparkle Fantasy"
 date: 2024-09-05
 published: true
