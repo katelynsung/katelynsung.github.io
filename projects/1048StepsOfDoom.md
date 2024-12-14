@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_1026.png
+image: ![B90502F7-B816-494D-AC42-0CA63C4E72A2](https://github.com/user-attachments/assets/c2ed7e8b-f3f3-4556-b5e9-b5e2807a1e65)
 title: "Sparkle Fantasy"
 date: 2024-09-05
 published: true
@@ -21,6 +21,6 @@ With these interactive experiences trending in places like TokyoLab, Van Gogh im
 ![C8B8632C-8095-4234-93B1-B3EF01597507_1_102_o](https://github.com/user-attachments/assets/7a150e83-5cb8-4c3b-944b-97e0fb90a3bc)
 ![B134007E-A56A-4C37-90C4-69D5BFBAAB4F_1_102_o](https://github.com/user-attachments/assets/84be7c92-2b68-4b7e-8b66-2d99046642d2)
 
-![B90502F7-B816-494D-AC42-0CA63C4E72A2](https://github.com/user-attachments/assets/c2ed7e8b-f3f3-4556-b5e9-b5e2807a1e65)
+
 
 This was actually my first time using Unity and taking a more creative computer science class. It was an outstanding experience and I enjoyed the CreateX project the most. This class made me realize there is more to the field of Computer Science than just a software engineer. I recently went to TeamLabs in Tokyo and found it so cool that my classmates and I were able to create almost the same experience. I want to apply what I learned and try to work on personal projects to develop cool TokyoLab-like experiences. Ideally, I want to get into the fashion tech field, creating high-tech commercials or using these projections and body trackers to make cool fashion shows and campaigns. It was surprising to see how creative my classmates were and if we spent more time on it, I'm sure we could have created a 'HawaiiLab' experience!
