@@ -2,22 +2,24 @@
 layout: project
 type: project
 image: img/IMG_1026.png
-title: "50 Days of Kokohead"
+title: "Sparkle Fantasy"
 date: 2024-09-05
 published: true
 labels:
-  - Hiking
-summary: "1048 Steps of Doom"
+  - CreateX
+  - Creative Media UH West Oahu
+summary: "CreateX Sparkle Fantasy"
 ---
-<img class="img-fluid" src="../img/Screen Shot 2024-09-05 at 10.06.07 PM.png">
+
+I got an amazing oppurtunity taking a Augmented Virtual Reality class in the Fall. 
+
+At UH West Oahu in their new Creative Media building, we were assigned to develop a CreateX project. My teammates Aaron McLean, Jingyi He, and I created an interactable sparkling fantasy experience. Using the platform Unity, we all worked on creating a fantasy experience. Aaron developed a sparkling ambiance that users could interact with, while Jingyi developed deer models from scratch through blender. 
+
+With these interactive experiences trending in places like TokyoLab, Van Gogh immersive experiences, etc, It was incredible being able to get a touch on how they are created.
 
 
-My idea of people waking up before the sun rose to go to the gym always seemed inspirational to me. Although I've had my fair share of gym attempts, it was difficult for me to create it as a routine. My dad and sisters started going to Kokohead every Sunday morning before sunrise. Reaching the top as the sun woke up with you was the best feeling ever. The fresh new wind of the day cooling you from your hard worked sweat. From that day the routine began. Every sunday morning we would hike Kokohead together, and rush home to get ready to go to my part time job. It made me feel accomplished!
+![C8B8632C-8095-4234-93B1-B3EF01597507_1_102_o](https://github.com/user-attachments/assets/7a150e83-5cb8-4c3b-944b-97e0fb90a3bc)
+![B134007E-A56A-4C37-90C4-69D5BFBAAB4F_1_102_o](https://github.com/user-attachments/assets/84be7c92-2b68-4b7e-8b66-2d99046642d2)
 
-School started and my schedule shifted a bit. I managed to get one of my good friends and create a 50 day kokohead challenge. Every tuesday morning before our 9 AM class we'd hike Kokohead. The 1048 stairs of doom made me feel confident and productive. Everyone has 24 hours, I found it so accomplishing that I was up and early beign active to start my day. This made my days go longer as well! Soon we began to time ourselves breaking our records one after another. 
 
-Overall I think this little personal challenge that I made helped me get in a better habit of exercising. It also made me realize how much time we have and are wasting. This challenge made me more aware of how valuable our 24 hours are. 
-<hr>
-
-<pre>
-
+This was actually my first time using Unity and taking a more creative computer science class. It was an outstanding experience and I enjoyed the CreateX project the most. This class made me realize there is more to the field of Computer Science than just a software engineer. I recently went to TeamLabs in Tokyo and found it so cool that my classmates and I were able to create almost the same experience. I want to apply what I learned and try to work on personal projects to develop cool TokyoLab-like experiences. Ideally, I want to get into the fashion tech field, creating high-tech commercials or using these projections and body trackers to make cool fashion shows and campaigns. It was surprising to see how creative my classmates were and if we spent more time on it, I'm sure we could have created a 'HawaiiLab' experience!
