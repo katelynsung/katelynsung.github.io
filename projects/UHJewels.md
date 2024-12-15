@@ -28,6 +28,10 @@ summary: "UH Jewels"
 * [Team](#team)
 
 ## Overview
+I wanted to create a small business for fun creating my own handmade jewelry. In my ICS 314 class I decided to implement my website project to be showcasing my pieces and format it as a working 'jewelry ecommerce site'. My teammates [Jarren Seson](https://github.com/jarrenseson), and [Waltz Tuzon](https://github.com/waltz-axl-c-tuzon) and I worked on developing the working application together. Using VSCode and Github as our main platforms, our team learned how to connect inputted data from our website to our local database using pgAdmin. We ran this application through Vercel.  
+
+Consumers are able to login, make an account and shop their new pieces. Our local database allows us as the owner to see what orders each user has placed, and from there on can ship and finish up the ordering process on the business side. 
+
 
 UH Jewels is a web application that allows users to browse and place orders for jewelery displayed on the site. These pieces will be made to order, solving the problem to affordable fashion to UH manoa students. The technologies we will be using include:
 * [React](https://reactjs.org/) 
