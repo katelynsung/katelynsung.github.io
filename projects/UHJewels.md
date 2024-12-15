@@ -30,7 +30,7 @@ summary: "UH Jewels"
 ## Overview
 I wanted to create a small business for fun creating my own handmade jewelry. In my ICS 314 class I decided to implement my website project to be showcasing my pieces and format it as a working 'jewelry ecommerce site'. My teammates [Jarren Seson](https://github.com/jarrenseson), and [Waltz Tuzon](https://github.com/waltz-axl-c-tuzon) and I worked on developing the working application together. Using VSCode and Github as our main platforms, our team learned how to connect inputted data from our website to our local database using pgAdmin. We ran this application through Vercel.  
 
-Consumers are able to login, make an account and shop their new pieces. Our local database allows us as the owner to see what orders each user has placed, and from there on can ship and finish up the ordering process on the business side. 
+Consumers are able to login, make an account and shop for their new pieces. Our local database allows us as the owner to see what orders each user has placed, and from there on can ship and finish up the ordering process on the business side. 
 
 
 UH Jewels is a web application that allows users to browse and place orders for jewelery displayed on the site. These pieces will be made to order, solving the problem to affordable fashion to UH manoa students. The technologies we will be using include:
@@ -52,21 +52,21 @@ Click the button on the top left which takes you to our instagram page.
 
 <img width="1431" alt="Screenshot 2024-11-21 at 4 59 31 PM" src="https://github.com/user-attachments/assets/c0b86896-d328-4bcf-b29a-cdbe40f23927">
 
-When you click the button 'Shop Jewels' it will be prompting the user to login in or make an account. That way all of their information and the products they add will be under the same name in the database. 
+When you click the button 'Shop Jewels' it will prompt the user to login in or make an account. That way all of their information and the products they add will be under the same name in the database. 
 
 ### Customer Login page
 
 <img width="1697" alt="Screenshot 2024-12-10 at 11 56 08 AM" src="https://github.com/user-attachments/assets/79be1cf6-60b7-47c6-866d-1429b642b3ec">
 
 
-Just sign in or sign up with your email and a password.
+Just sign in or create a new account with your email and a password.
 
-After logging in, it will take you to back to the home page with a Shop Jewels tab. As a user you can either shop view the products by clicking the 'Shop Jewels' button or click the tab in the Nav bar. 
+After logging in, it will take you back to the home page with a Shop Jewels tab. As a user you can either view the products by clicking the 'Shop Jewels' button or click the tab in the Nav bar. 
 <img width="1706" alt="Screenshot 2024-12-10 at 11 56 25 AM" src="https://github.com/user-attachments/assets/adc78541-be45-46bb-bd03-aabb8aa6ad66">
 
 ### Products Page
 
-Here you can view the pieces that are listed, viewing the prices and styles available. WHen ready to place your order click the 'Place order button' which will direct you to the Order form page. 
+Here you can view the pieces that are listed, viewing the prices and styles available. When ready to place your order click the 'Place order button' which will direct you to the Order form page. 
 
 <img width="1706" alt="Screenshot 2024-12-10 at 11 57 59 AM" src="https://github.com/user-attachments/assets/1d815dbb-1ce2-4f0a-907c-a603a906aa33">
 
