@@ -1,3 +1,19 @@
+---
+layout: project
+type: project
+image: img/B90502F7-B816-494D-AC42-0CA63C4E72A2.jpeg
+title: "UH Jewels"
+date: 2024-12-15
+published: true
+labels:
+  - ICS314
+  - Bootstrap
+  - HTML
+  - CSS
+  - Business
+summary: "UH Jewels"
+---
+
 # UH Jewels  [![ci-nextjs-application-template](https://github.com/UH-Jewels/uh-jewels-application-template/actions/workflows/ci.yml/badge.svg)](https://github.com/UH-Jewels/uh-jewels-application-template/actions/workflows/ci.yml)
 <a href="https://github.com/UH-Jewels">View our organization on GitHub</a>
 
