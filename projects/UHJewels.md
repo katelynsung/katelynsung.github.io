@@ -37,6 +37,8 @@ UH Jewels is a web application that allows users to browse and place orders for 
 * [React](https://reactjs.org/) 
 * [React Bootstrap](https://react-bootstrap.github.io/) 
 * [NextJS](https://nextjs.org/)
+* [VSCode](https://code.visualstudio.com/)
+  
 
 
 ## User Guide
