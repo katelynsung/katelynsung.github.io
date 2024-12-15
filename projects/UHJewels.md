@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/B90502F7-B816-494D-AC42-0CA63C4E72A2.jpeg
+image: img/dropbracelet.JPG
 title: "UH Jewels"
 date: 2024-12-15
 published: true
